@@ -1,3 +1,5 @@
+# Will up updated 16/08/2020
+
 # Thesis Code
 
 In this git repository, we have included some R code used thesis "Forecasting
@@ -9,7 +11,7 @@ This code is split into folders mirroring the layout of the thesis.
 This section of the thesis introduces the three main themes: dimenion reduction,
 stochastic modelling, and forecasting.
 
-## Dimension Reduction
+## Ch1: Dimension Reduction
 
 In this section we discussed PCA and ICA. Within ICA, the fastICA method was
 critiqued, and the (novel) clusterICA method was introduced.
@@ -24,7 +26,7 @@ which has been submitted and is currently in the review stage.
 
 This section includes the clusterICA code.
 
-## Modelling using Stochastic Processes
+## Ch2: Modelling using Stochastic Processes
 
 This code avaliable here intoduced in this section is taken from the parameter
 fitting procedures (Section 2.3.2), and estimating the seasonal effects (Section
@@ -53,14 +55,14 @@ Ornstein-Uhlenbeck processes.
 
 # Part II: Application
 
-## HadCM3: mean sea-level air pressure
+## Ch4: HadCM3: mean sea-level air pressure
 
 ### Forecasting the components
 
 Here we include some example code to produce the forecasting plots giving the point
 forecasts and prediction intervals for the components.
 
-## HadCM3: mean sea-level air pressure with wind velocity
+## Ch5: HadCM3: mean sea-level air pressure with wind velocity
 
 Here we include code for reconstructing the climate simulator output.
 
