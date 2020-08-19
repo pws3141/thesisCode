@@ -1,4 +1,4 @@
-# Will be updated 16/08/2020
+# Will be updated 23/08/2020
 
 # Thesis Code
 
@@ -47,10 +47,11 @@ and diffusion parameter estimations from a block-average realisation.
 In this section we include the code to obtain a quadratic spline given some seasonal
 means.
 
-## Forecasting
+## Ch3: Forecasting
 
-Here we include the code that produces point forecast and prediction intervals for
-realisations from Ornstein-Uhlenbeck processes, and from block-average
+Here we include the code that produces an example of point forecast and prediction intervals for
+a realisation from Ornstein-Uhlenbeck process. We also include the code used to calculate
+one-step-ahead point forecasts and prediction intervals for block-average
 Ornstein-Uhlenbeck processes.
 
 # Part II: Application
