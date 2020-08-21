@@ -58,10 +58,10 @@ Ornstein-Uhlenbeck processes.
 
 ## Ch4: HadCM3: mean sea-level air pressure
 
-### Forecasting the components
+%### Forecasting the components
 
-Here we include some example code to produce the forecasting plots giving the point
-forecasts and prediction intervals for the components.
+%Here we include some example code to produce the forecasting plots giving the point
+%forecasts and prediction intervals for the components.
 
 ## Ch5: HadCM3: mean sea-level air pressure with wind velocity
 
